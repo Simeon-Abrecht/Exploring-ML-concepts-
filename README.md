@@ -1,4 +1,4 @@
-# Exploring-ML-concepts-
+# **Exploring ML Concepts**
 
 # Regression Models: kNN and Ridge Regression
 
