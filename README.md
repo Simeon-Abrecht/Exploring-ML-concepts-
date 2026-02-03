@@ -20,7 +20,7 @@ This repository contains custom implementations of regression models and evaluat
 
 ## Files
 
-### `knn_cv.py`
+### `KNN_CV_experiment.ipynb`
 Implements k-nearest neighbours regression and custom cross-validation utilities.
 
 Includes:
@@ -31,7 +31,7 @@ Includes:
 
 ---
 
-### `ridge_regression.py`
+### `Ridge_Regression_experiment.ipynb`
 Implements ridge regression using stochastic gradient descent and explores regularisation effects.
 
 Includes:
